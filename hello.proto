@@ -1,4 +1,5 @@
-// https://github.com/maxeema/flutter-web-grpc/blob/master/protos/hello.proto
+syntax = "proto3";
+package helloworld;
 
 // The greeting service definition.
 service Greeter {
